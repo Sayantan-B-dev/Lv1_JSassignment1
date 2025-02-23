@@ -15,34 +15,13 @@ q10 –
 
 q11 – 
 
-90-100: A
-80-89: B
-70-79: C
-60-69: D
-Below 60: F
-q12 – Simple Login System
-Set a predefined username and password. Ask the user to enter their credentials using prompt(). If correct, print “Login Successful”; otherwise, print “Incorrect username or password.”
 
-q13 – Swapping Without Third Variable
-Take two numbers from the user and swap their values without using a third variable.
-
-q14 – FizzBuzz (Multiple of Both)
-Ask the user for a number. If it's a multiple of both 3 and 5, print “FizzBuzz”; if only 3, print “Fizz”; if only 5, print “Buzz”; otherwise, print the number itself.
-
-q15 – Number Reversal
-Take a three-digit number from the user and print its reverse. (Example: 123 → 321).
-
-q16 – Sum of Digits
-Take a number from the user and print the sum of its digits. (Example: 123 → 1+2+3 = 6).
-
-q17 – Palindrome Checker
-Ask the user for a word. Check if it reads the same forward and backward. Print “Palindrome” or “Not a Palindrome.”
-
-q18 – Reverse Without String Methods
-Ask the user for a number and reverse it without using .split(), .reverse(), or .join().
-
-q19 – Find Second Largest
-Take three numbers as input and find the second largest number (without using sort() or Math.max()).
-
-q20 – Find First Non-Repeating Character
-Ask the user for a word and find the first character that does not repeat. Example: hello → h (since e, l, and o repeat).
+q12 – 
+q13 – 
+q14 – 
+q15 – 
+q16 – 
+q17 – 
+q18 – 
+q19 – 
+q20 – 
